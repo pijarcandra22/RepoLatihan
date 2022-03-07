@@ -1,0 +1,2 @@
+# RepoLatihan
+Untuk Kelas Bangkit
